@@ -7,7 +7,7 @@
   <script src='js/drawUtils.js'></script>
   <script src='js/graphs.js'></script>
   <script src='js/history.js'></script>
-  <script src='js/index.js'></script>
+  <script src='js/draw.js'></script>
 
  </body>
 </html>
